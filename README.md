@@ -57,14 +57,22 @@
 </p>
 
 ### My Github Stats
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=DevXray&show_icons=true&theme=jolly" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevXray&layout=donut&theme=jolly" />
- 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=DevXray&theme=jolly&hide_border=false" />
-</p>
-
+<table align="center" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="border: none; padding: 0px; margin: 0px; ">
+      <img src="https://github-readme-stats.vercel.app/api?username=DevXray&show_icons=true&theme=jolly" />
+    </td>
+    <td rowspan="2" style="border: none; height: auto;
+    width: auto; padding: 0px; margin: 0px">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevXray&theme=jolly&stats_format=bytes" />
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 0px; padding-top: 0px margin: 0px">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=DevXray&theme=jolly&hide_border=false" />
+    </td>
+  </tr>
+</table>
 
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=DevXray&theme=juicyfresh&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
