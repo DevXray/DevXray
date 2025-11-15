@@ -57,15 +57,20 @@
 </p>
 
 ### My Github Stats
+<table>
+  <tr>
+    <td>
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=DevXray&show_icons=true&theme=jolly" />
+      <br>
+      <img height="180" src="https://nirzak-streak-stats.vercel.app/?user=DevXray&theme=jolly&hide_border=false" />
+    </td>
+    <td>
+      <img height="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevXray&theme=jolly&stats_format=bytes" />
+    </td>
+  </tr>
+</table>
 
-<div align="center" style="display: grid; gap: 0px; padding: 0; margin: 0; align-items: flex-start;">
-  <div style="display: grid; flex-direction: column; gap: px; padding: 0; margin: 0;">
-    <img src="https://github-readme-stats.vercel.app/api?username=DevXray&show_icons=true&theme=jolly" style="margin:0; padding:0;" />
-    <img src="https://nirzak-streak-stats.vercel.app/?user=DevXray&theme=jolly&hide_border=false" style="margin:0; padding:0;" />
-  </div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevXray&theme=jolly&stats_format=bytes"
-       style="margin:0; padding:0;" />
-</div>
+
 
 
 ### 🏆 GitHub Trophies
