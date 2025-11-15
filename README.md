@@ -2,7 +2,6 @@
 
 <h1 align="center"> Hi there My Name Fariz, Student in Makassar University State in Indonesia 👋 </h1>
 
-###
 <div align="center">
   <img height="566" width="1006" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
   
@@ -58,11 +57,11 @@
 </p>
 
 ### My Github Stats
-
+<p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=DevXray&show_icons=true&theme=jolly" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevXray&layout=donut&theme=jolly" />
-<p align="center">  
+ 
   <img src="https://nirzak-streak-stats.vercel.app/?user=DevXray&theme=jolly&hide_border=false" />
 </p>
 
