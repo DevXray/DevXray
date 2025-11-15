@@ -1,4 +1,4 @@
-![Fariz Ahmad](Banner_Github.png)
+![Fariz Ahmad](Banner_kucing.png)
 
 ## About ME
 ### Hi there My Name Fariz, Student in Makassar University State in Indonesia 👋
