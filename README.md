@@ -60,12 +60,12 @@
 <table>
   <tr>
     <td>
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=DevXray&show_icons=true&theme=jolly" />
+      <img height="250" src="https://github-readme-stats.vercel.app/api?username=DevXray&show_icons=true&theme=jolly" />
       <br>
-      <img height="180" src="https://nirzak-streak-stats.vercel.app/?user=DevXray&theme=jolly&hide_border=false" />
+      <img height="250" src="https://nirzak-streak-stats.vercel.app/?user=DevXray&theme=jolly&hide_border=false" />
     </td>
     <td>
-      <img height="460" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevXray&theme=jolly&stats_format=bytes" />
+      <img height="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevXray&theme=jolly&stats_format=bytes" />
     </td>
   </tr>
 </table>
