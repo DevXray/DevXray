@@ -33,7 +33,7 @@
 [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farizahmd2201@gmail.com) 
 
 ### My Github Stats
-![DevXray GitHub stats](https://github-readme-stats.vercel.app/api?username=DevXray&show_icons=true&theme=moltack) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevXray&layout=donut&theme=rose)](https://github.com/anuraghazra/github-readme-stats) ![](https://nirzak-streak-stats.vercel.app/?user=DevXray&theme=jolly&hide_border=false)
+![DevXray GitHub stats](https://github-readme-stats.vercel.app/api?username=DevXray&show_icons=true&theme=jolly) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevXray&layout=donut&theme=jolly)](https://github.com/anuraghazra/github-readme-stats) ![](https://nirzak-streak-stats.vercel.app/?user=DevXray&theme=jolly&hide_border=false)
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DevXray&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
