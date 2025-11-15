@@ -58,8 +58,8 @@
 
 ### My Github Stats
 
-<div align="center" style="display: flex; gap: 0px; padding: 0; margin: 0; align-items: flex-start;">
-  <div style="display: flex; flex-direction: column; gap: 0px; padding: 0; margin: 0;">
+<div align="center" style="display: grid; gap: 0px; padding: 0; margin: 0; align-items: flex-start;">
+  <div style="display: grid; flex-direction: column; gap: px; padding: 0; margin: 0;">
     <img src="https://github-readme-stats.vercel.app/api?username=DevXray&show_icons=true&theme=jolly" style="margin:0; padding:0;" />
     <img src="https://nirzak-streak-stats.vercel.app/?user=DevXray&theme=jolly&hide_border=false" style="margin:0; padding:0;" />
   </div>
