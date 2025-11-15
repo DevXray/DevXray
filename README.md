@@ -65,7 +65,7 @@
       <img height="180" src="https://nirzak-streak-stats.vercel.app/?user=DevXray&theme=jolly&hide_border=false" />
     </td>
     <td>
-      <img height="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevXray&theme=jolly&stats_format=bytes" />
+      <img height="460" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevXray&theme=jolly&stats_format=bytes" />
     </td>
   </tr>
 </table>
